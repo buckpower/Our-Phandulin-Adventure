@@ -1,24 +1,18 @@
 {
-  "name": "our-phandulin-adventure",
   "title": "our-phandulin-adventure",
-  "description": "",
-  "authors": [],
+  "description": "<p></p>",
   "url": "https://github.com/buckpower/Our-Phandulin-Adventure",
-  "flags": {},
   "version": "1.0.0",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
   "system": "dnd5e",
-  "dependencies": [],
-  "socket": false,
   "manifest": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.0/world.json",
   "download": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.0/Our-Phandulin-Adventure.zip",
-  "protected": false,
-  "coreVersion": "9.269",
+  "coreVersion": "10.290",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.6.3"
+  "systemVersion": "2.0.3",
+  "id": "our-phandulin-adventure",
+  "compatibility": {
+    "verified": "10.290",
+    "minimum": "10"
+  }
 }
