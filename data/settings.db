@@ -1,0 +1,7 @@
+{"_id":"0Aij9V0RctjJeEXs","key":"core.time","value":"60"}
+{"_id":"R0guLQfFsCyt514K","key":"core.moduleConfiguration","value":"{\"dransky-lost-mines-maps\":true,\"colorsettings\":true,\"lib-wrapper\":true,\"spellbook-master\":true,\"siftoolkit\":true,\"storyteller\":false,\"critical-import-5e\":true,\"externalactor\":true,\"molten-module\":true,\"foundry-hot-seat-observer\":true}"}
+{"key":"core.nue.shownTips","value":"true","_id":"eMmqVzQZXrGWkpdn"}
+{"key":"dnd5e.systemMigrationVersion","value":"\"1.6.3\"","_id":"iaKX6s0rJl49oH8Z"}
+{"key":"foundry-hot-seat-observer.toggleGMSelect","value":"true","_id":"naELjFPw5gAIPEhI"}
+{"key":"core.combatTrackerConfig","value":"{\"resource\":\"attributes.init.value\",\"skipDefeated\":true}","_id":"trOz5ftPN7VXZ5nc"}
+{"key":"core.permissions","value":"{\"ACTOR_CREATE\":[3,4],\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"NOTE_CREATE\":[2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"zw9votxCDIGoIDxx"}

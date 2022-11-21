@@ -1,0 +1,1 @@
+node /home/foundryvtt/resources/app/main.js --dataPath=/home/foundrydata
