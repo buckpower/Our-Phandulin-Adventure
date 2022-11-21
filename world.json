@@ -2,7 +2,7 @@
   "title": "our-phandulin-adventure",
   "description": "<p></p>",
   "url": "https://github.com/buckpower/Our-Phandulin-Adventure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "system": "dnd5e",
   "manifest": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.0/world.json",
   "download": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.0/Our-Phandulin-Adventure.zip",
