@@ -1,11 +1,10 @@
 {
   "title": "our-phandulin-adventure",
-  "description": "<p></p>",
   "url": "https://github.com/buckpower/Our-Phandulin-Adventure",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "system": "dnd5e",
-  "manifest": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.0/world.json",
-  "download": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.0/Our-Phandulin-Adventure.zip",
+  "manifest": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.1/world.json",
+  "download": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.1/Our-Phandulin-Adventure.zip",
   "coreVersion": "10.290",
   "resetKeys": false,
   "safeMode": false,
@@ -14,5 +13,6 @@
   "compatibility": {
     "verified": "10.290",
     "minimum": "10"
-  }
+  },
+  "description": "<p></p>"
 }
