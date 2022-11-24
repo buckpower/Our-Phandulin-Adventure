@@ -1,10 +1,10 @@
 {
   "title": "our-phandulin-adventure",
   "url": "https://github.com/buckpower/Our-Phandulin-Adventure",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "system": "dnd5e",
-  "manifest": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.1/world.json",
-  "download": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.0.1/Our-Phandulin-Adventure.zip",
+  "manifest": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.1.0/world.json",
+  "download": "https://github.com/buckpower/Our-Phandulin-Adventure/releases/download/1.1.0/Our-Phandulin-Adventure.zip",
   "coreVersion": "10.290",
   "resetKeys": false,
   "safeMode": false,
@@ -14,5 +14,40 @@
     "verified": "10.290",
     "minimum": "10"
   },
-  "description": "<p></p>"
+  "description": "<p></p>",
+  "packs": [
+    {
+      "label": "Spells - Extra",
+      "type": "Item",
+      "name": "spells-extra",
+      "path": "packs/spells-extra.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Subclasses - Extra",
+      "type": "Item",
+      "name": "subclasses-extra",
+      "path": "packs/subclasses-extra.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.subclasses-extra",
+      "packageType": "world",
+      "packageName": "our-phandulin-adventure",
+      "index": []
+    },
+    {
+      "label": "Class Features - Extra",
+      "type": "Item",
+      "name": "class-features-extra",
+      "path": "packs/class-features-extra.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world"
+    }
+  ]
 }
